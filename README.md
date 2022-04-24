@@ -1,1 +1,1 @@
-template for solana web app
+withdraw lust with very secure measures.
